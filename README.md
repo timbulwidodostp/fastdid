@@ -1,6 +1,8 @@
 # fastdid
 Fast staggered and flexible Difference-in-Differences (DiD) estimators in Callaway and Sant’Anna’s (2021) Use fastdid With (In) R Software
 
+https://www.youtube.com/watch?v=3qtoEJmYd6s
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
